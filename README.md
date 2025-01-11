@@ -22,3 +22,8 @@
 - **gob.mx:** Shares network data but no personal details, reducing phishing risk but remaining vulnerable to network-based attacks.
 - **tarrantcountytx.gov:** Similar to gob.mx, sharing technical data while protecting personal details.
 - **fbi.gov:** Most secure, offering minimal exploitable information, protecting against most common attacks.
+
+  ---
+
+  ### Disclaimer
+This project was conducted in a controlled environment. Unauthorized use of these techniques or tools outside such an environment may violate ethical guidelines and legal regulations.
