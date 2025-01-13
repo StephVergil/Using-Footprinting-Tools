@@ -1,6 +1,6 @@
 # Using Footprinting Tools
 
-[Project](https://github.com/StephVergil/Using-Footprinting-Tools/blob/main/HW%204%20Using%20Footprinting%20Tools.docx)
+[View Project](https://github.com/StephVergil/Using-Footprinting-Tools/blob/main/HW%204%20Using%20Footprinting%20Tools.docx)
 
 ## Overview
 
